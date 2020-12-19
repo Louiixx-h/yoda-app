@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yoda</string>
+    <string name="edit_text_msg">Digite uma frase</string>
+    <string name="button_text">Inverter frase</string>
+</resources>
